@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     swisstronik: {
       url: "https://json-rpc.testnet.swisstronik.com/",
-      accounts: [""],
+      accounts: ["udget enact cream twenty impose window patrol unique music expire survey close"],
     },
   },
 };
